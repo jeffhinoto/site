@@ -81,7 +81,7 @@ function App() {
 
     </section>
     <div style={{color:"#fff",display:'inline-table'}}>
-      <span>teste</span>
+      <span></span>
     </div>
     </>
   );
