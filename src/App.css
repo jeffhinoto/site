@@ -196,6 +196,7 @@ html, body, #contact-info {
   color: #ffffff;  ;
 }
 .img{
+  padding-top: 30px;
   width: 150px;
   height: 150px;
   border-radius: 100%;
